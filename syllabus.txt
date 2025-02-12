@@ -1,0 +1,37 @@
+Pre mid-term topics:
+
+ Introduction and Review
+- Review of Asymptotic notation: motivation and types of notations
+- Proof of correctness: by contradiction, Loop invariant
+
+ Review of Sorting
+- Bubble
+- Insertion
+- Selection
+- Bucket
+- Heap
+- Comparison of sorting algorithms
+- Applications
+
+ Graph Algorithms
+ Graph Traversal:
+- Applications of BFS: 
+  - Distance
+  - Connectivity
+  - Connected components
+  - Cycles in undirected graphs
+- Applications of DFS:
+  - Topological sort✅
+  - Cycles in directed graphs
+  - Biconnected Components
+  - Strong Connectivity
+- Path algorithms:
+  - Shortest path algorithms (along with analysis)
+
+ Greedy Algorithm
+- Introduction
+- Fractional Knapsack problem
+- Task Scheduling Problem
+- Huffman coding, etc., as examples
+
+I hope this helps! If you need more details on any specific topic, just let me know.
