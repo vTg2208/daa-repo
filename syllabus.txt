@@ -14,14 +14,16 @@ Pre mid-term topics:
 - Applications
 
  Graph Algorithms
+ 
  Graph Traversal:
 - Applications of BFS: 
   - Distance
   - Connectivity
   - Connected components
   - Cycles in undirected graphs
+
 - Applications of DFS:
-  - Topological sort✅
+  - Topological sort ✅
   - Cycles in directed graphs
   - Biconnected Components
   - Strong Connectivity
