@@ -25,7 +25,7 @@ Pre mid-term topics:
 - Applications of DFS:
   - Topological sort ✅
   - Cycles in directed graphs
-  - Biconnected Components
+  - Biconnected Components ✅
   - Strong Connectivity
 - Path algorithms:
   - Shortest path algorithms (along with analysis)
