@@ -1,3 +1,10 @@
+/*
+A graph is said to be Biconnected if: 
+
+It is connected, i.e. it is possible to reach every vertex from every other vertex, by a simple path. 
+Even after removing any vertex the graph remains connected.
+*/
+
 #include <iostream>
 #include <vector>
 #include <stack>
