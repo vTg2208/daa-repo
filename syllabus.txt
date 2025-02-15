@@ -26,7 +26,7 @@ Pre mid-term topics:
   - Topological sort ✅
   - Cycles in directed graphs
   - Biconnected Components ✅
-  - Strong Connectivity
+  - Strong Connectivity ✅
 - Path algorithms:
   - Shortest path algorithms (along with analysis)
 
