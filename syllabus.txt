@@ -31,10 +31,10 @@ Pre mid-term topics:
   - Shortest path algorithms (along with analysis)
 
 - Minimum Spanning Tree:
-  - Prim's Algorithm
-  - Kurskal's Algorithm
-  - Boruvka's Algorithm
-  
+  - Prim's Algorithm ✅
+  - Kurskal's Algorithm ✅
+  - Boruvka's Algorithm ✅
+
  Greedy Algorithm
 - Introduction
 - Fractional Knapsack problem ✅
