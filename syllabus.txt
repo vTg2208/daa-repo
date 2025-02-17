@@ -30,10 +30,16 @@ Pre mid-term topics:
 - Path algorithms:
   - Shortest path algorithms (along with analysis)
 
+- Minimum Spanning Tree:
+  - Prim's Algorithm
+  - Kurskal's Algorithm
+  - Boruvka's Algorithm
+  
  Greedy Algorithm
 - Introduction
-- Fractional Knapsack problem
-- Task Scheduling Problem
-- Huffman coding, etc., as examples
+- Fractional Knapsack problem ✅
+- Task Scheduling Problem ✅
+- Huffman coding, ✅
+  etc., as examples
 
 I hope this helps! If you need more details on any specific topic, just let me know.
