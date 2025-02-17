@@ -7,9 +7,9 @@ Pre mid-term topics:
  Review of Sorting
 - Bubble
 - Insertion
-- Selection
-- Bucket
-- Heap
+- Selection ✅
+- Bucket ✅
+- Heap ✅
 - Comparison of sorting algorithms
 - Applications
 
@@ -24,7 +24,7 @@ Pre mid-term topics:
 
 - Applications of DFS:
   - Topological sort ✅
-  - Cycles in directed graphs
+  - Cycles in directed graphs ✅
   - Biconnected Components ✅
   - Strong Connectivity ✅
 - Path algorithms:
